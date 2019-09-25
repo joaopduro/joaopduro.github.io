@@ -13,6 +13,15 @@ This is a **work in progress** aimed at developing my skills with R Shiny. It br
 [Shiny App](https://joaopduro.shinyapps.io/SuicideRatesApp/)
 
 
+## Quora Insincere Questions Classification (February 2019)
+
+Quora Insincere Questions Classification was a Kaggle competition hosted by Quora aiming at classifying questions with being sincere or not. 
+
+This is a binary classification problem. The intent was for me to apply Recurrent Neural Networks and get familiar with Keras. This is very simple code.
+
+
+[Python Notebook](https://joaopduro.github.io/QuoraInsincereQuestionsClassification.html)
+
 
 ## Video Game Sales (October 2018)
 
